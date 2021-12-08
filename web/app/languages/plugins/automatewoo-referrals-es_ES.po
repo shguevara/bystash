@@ -1,0 +1,1335 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-21 13:54:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WooCommerce - AutomateWoo - Refer A Friend\n"
+
+#: includes/admin/views/page-view-referral.php:172
+msgid "Customer discount amount"
+msgstr "Cantidad de descuento del cliente"
+
+#: includes/admin/views/page-view-referral.php:167
+msgid "Customer discount type"
+msgstr "Tipo de descuento del cliente"
+
+#: includes/admin/views/page-view-referral.php:159
+msgid "Customer IP address"
+msgstr "Dirección IP del cliente"
+
+#: includes/admin/views/page-view-referral.php:136
+msgid "Advocate reward amount remaining"
+msgstr "Cantidad restante de la recompensa del promotor "
+
+#: includes/admin/views/page-view-referral.php:128
+msgid "Advocate reward amount"
+msgstr "Cantidad de la recompensa del promotor"
+
+#: includes/admin/views/page-view-referral.php:123
+msgid "Advocate reward type"
+msgstr "Tipo de recompensa del promotor"
+
+#: includes/admin/views/page-view-referral.php:118
+msgid "Advocate IP address"
+msgstr "Dirección IP del promotor"
+
+#: includes/admin/views/page-view-referral.php:104
+msgid "(Status:  %s)"
+msgstr "(Estado: %s)"
+
+#: includes/admin/views/page-view-referral.php:94
+msgid "Date created"
+msgstr "Fecha de creación"
+
+#: includes/admin/views/page-view-referral.php:89
+msgid "Referral ID"
+msgstr "ID de recomendación"
+
+#: includes/admin/views/page-view-referral.php:76
+msgid "The IP addresses of the advocate and referred customer were identical. The advocate may have referred themselves."
+msgstr "La dirección IP del promotor y del cliente que ha recibido la recomendación es idéntica. Puede que el promotor se haya enviado la recomendación a sí mismo."
+
+#: includes/admin/views/page-view-referral.php:75
+msgid "Potential Fraud Detected"
+msgstr "Se ha detectado un posible fraude"
+
+#: includes/admin/views/page-view-referral.php:62
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/admin/views/page-view-referral.php:61
+msgid "Delete permanently"
+msgstr "Borrar permanentemente"
+
+#: includes/admin/views/page-view-referral.php:29
+msgid "Referral Details"
+msgstr "Detalles de la recomendación"
+
+#: includes/admin/list-tables/referrals.php:271
+msgid "Mark as Potential Fraud"
+msgstr "Marcar como posible fraude"
+
+#: includes/admin/list-tables/referrals.php:270
+msgid "Mark as Pending"
+msgstr "Marcar como pendiente"
+
+#: includes/admin/list-tables/referrals.php:269
+msgid "Mark as Rejected"
+msgstr "Marcar como rechazada"
+
+#: includes/admin/list-tables/referrals.php:268
+msgid "Mark as Approved"
+msgstr "Marcar como aprobada"
+
+#: includes/admin/list-tables/referrals.php:246
+msgid "Reject"
+msgstr "Rechazar"
+
+#: includes/admin/list-tables/referrals.php:242
+msgid "Approve"
+msgstr "Aprobar"
+
+#: includes/admin/list-tables/referrals.php:239
+msgid "View"
+msgstr "Ver"
+
+#: includes/admin/list-tables/referrals.php:193
+msgid "(%s remaining)"
+msgstr "(restante: %s)"
+
+#: includes/admin/list-tables/referrals.php:195
+msgid "None"
+msgstr "Nada"
+
+#: includes/admin/list-tables/referrals.php:174
+msgid "#%s - Deleted"
+msgstr "Núm. %s - Eliminada"
+
+#: includes/admin/list-tables/referrals.php:95
+msgid "Actions"
+msgstr "Acciones"
+
+#: includes/admin/list-tables/referrals.php:94
+msgid "Advocate Reward"
+msgstr "Recompensa del promotor"
+
+#: includes/admin/list-tables/referrals.php:93
+msgid "Customer Discount"
+msgstr "Descuento del cliente"
+
+#: includes/admin/list-tables/referrals.php:92
+msgid "Created"
+msgstr "creado"
+
+#: includes/admin/list-tables/referrals.php:91,
+#: includes/admin/views/page-view-referral.php:101
+msgid "Order"
+msgstr "Pedido"
+
+#: includes/admin/list-tables/referral-codes.php:206
+msgid "Active"
+msgstr "Activo"
+
+#: includes/admin/list-tables/referral-codes.php:49
+msgid "Expires"
+msgstr "Vencimiento"
+
+#: includes/admin/list-tables/referral-codes.php:49,
+#: includes/admin/list-tables/referral-codes.php:207
+msgid "Expired"
+msgstr "Expirado"
+
+#: includes/admin/list-tables/referral-codes.php:29
+msgid "Search referral codes"
+msgstr "Buscar códigos de recomendación"
+
+#: includes/admin/list-tables/referral-codes.php:24,
+#: includes/admin/list-tables/referral-codes.php:43
+msgid "Referral code"
+msgstr "Código de recomendación"
+
+#: includes/admin/list-tables/invites.php:132,
+#: includes/admin/list-tables/referral-codes.php:182,
+#: includes/admin/list-tables/referrals.php:272
+msgid "Delete"
+msgstr "Eliminar"
+
+#: includes/admin/list-tables/invites.php:23
+msgid "Referral Invites"
+msgstr "Invitaciones de recomendación"
+
+#: includes/admin/list-tables/invites.php:22
+msgid "Referral Invite"
+msgstr "Invitación de recomendación"
+
+#: includes/admin/list-tables/advocates.php:112
+msgctxt "indication in list table that advocate is blocked"
+msgid "(Blocked)"
+msgstr "(Bloqueado)"
+
+#: includes/admin/list-tables/advocates.php:74,
+#: includes/admin/list-tables/advocates.php:248
+msgid "Block"
+msgstr "Bloque"
+
+#: includes/admin/list-tables/advocates.php:73,
+#: includes/admin/list-tables/advocates.php:249
+msgid "Unblock"
+msgstr "Desbloquear"
+
+#: includes/admin/list-tables/advocates.php:45
+msgid "Total credit"
+msgstr "Crédito total"
+
+#: includes/admin/list-tables/advocates.php:44
+msgid "Current credit"
+msgstr "Crédito actual"
+
+#: includes/admin/list-tables/advocates.php:43
+msgid "Referral revenue"
+msgstr "Ingresos de la recomendación"
+
+#: includes/admin/list-tables/advocates.php:42
+msgid "Referral count"
+msgstr "Recuento de recomendaciones"
+
+#: includes/admin/list-tables/advocates.php:41
+msgid "Invites sent"
+msgstr "Invitaciones enviadas"
+
+#: includes/admin/list-tables/abstract.php:28
+msgid "Search for an advocate&hellip;"
+msgstr "Buscar un promotor&hellip;"
+
+#: includes/admin/dashboard-widgets/chart-invites.php:53
+msgid "referral invites sent"
+msgstr "invitaciones de recomendación enviadas"
+
+#: includes/admin/controllers/referrals.php:315
+msgid "All"
+msgstr "Todas"
+
+#: includes/admin/controllers/referrals.php:271
+msgid "Referral could not be found."
+msgstr "No se ha podido encontrar la recomendación."
+
+#: includes/admin/controllers/referrals.php:213
+msgid "Referral marked as rejected."
+msgstr "La recomendación se ha marcado como rechazada."
+
+#: includes/admin/controllers/referrals.php:193
+msgid "Referral marked as approved."
+msgstr "La recomendación se ha marcado como aprobada."
+
+#: includes/admin/controllers/referrals.php:173
+msgid "Referral successfully updated."
+msgstr "La recomendación se ha actualizado correctamente."
+
+#: includes/admin/controllers/referrals.php:138
+msgid "Referral successfully deleted."
+msgstr "La recomendación se ha eliminado correctamente."
+
+#: includes/admin/controllers/referrals.php:105,
+#: includes/admin/controllers/referrals.php:110
+msgid "Amount"
+msgstr "Cantidad"
+
+#: includes/admin/controllers/referrals.php:97,
+#: includes/admin/list-tables/referrals.php:88
+msgid "Status"
+msgstr "Estatus"
+
+#: includes/admin/controllers/referrals.php:99
+msgid "The referral status controls whether the advocate can use any reward credit. Store credit can only be used when the referral is approved."
+msgstr "El estado de la recomendación controla si el promotor puede usar el crédito de su recompensa. Solo es posible usar el crédito de la tienda cuando se aprueba la recomendación."
+
+#: includes/admin/controllers/referral-codes.php:47
+msgid "These codes are automatically deleted %d days after they expire."
+msgstr "Estos códigos se eliminan automáticamente %d días después de caducar."
+
+#: includes/admin/controllers/referral-codes.php:44
+msgid "Referral codes are unique keys that are used to identify advocates in the referral process. Depending on whether you are using coupon or link based tracking the referral code will be used as a part of the shared URL or coupon."
+msgstr "Los códigos de recomendación son claves únicas que se utilizan para identificar a los promotores en el proceso de recomendación. En función de si estás usando un seguimiento basado en un enlace o un cupón, el código de recomendación se utilizará como parte de la URL o el cupón compartido. "
+
+#: includes/admin/controllers/invites.php:48
+msgid "These emails have been anonymized due to your privacy settings."
+msgstr "Estos correos electrónicos se han anonimizado debido a tu configuración de privacidad."
+
+#: includes/admin/controllers/invites.php:45
+msgid "A record is made for each referral invite that is sent. Social shares are not tracked."
+msgstr "Se crea un registro de cada invitación de recomendación enviada. No se hace el seguimiento de las veces que se ha compartido en redes sociales."
+
+#: includes/admin/controllers/base.php:35
+msgid "Please select some items to bulk edit."
+msgstr "Selecciona algunos artículos para editarlos en masa."
+
+#: includes/admin/controllers/advocates.php:106
+msgid "Advocate unblocked."
+msgstr "Se ha desbloqueado al promotor. "
+
+#: includes/admin/controllers/advocates.php:96
+msgid "Advocate blocked."
+msgstr "Se ha bloqueado al promotor."
+
+#: includes/admin/controllers/advocates.php:86,
+#: includes/admin/controllers/invites.php:87,
+#: includes/admin/controllers/referral-codes.php:81,
+#: includes/admin/controllers/referrals.php:252
+msgid "Bulk edit completed."
+msgstr "Se ha completado la edición en masa."
+
+#: includes/admin/controllers/advocates.php:54
+msgid "Advocates are users that are promoting your site through referrals. Current credit is the amount of earned credit the advocate has yet to spend and the total credit is the total amount of credit earned. These figures include approved referrals only."
+msgstr "Los promotores son usuarios que promocionan tu sitio mediante recomendaciones. El crédito actual es la cantidad de crédito que aún tiene el promotor, mientras que el crédito total es la cantidad total de crédito que ha obtenido.  Estas cifras solo incluyen las recomendaciones aprobadas."
+
+#: includes/variables/referral-status.php:17
+msgid "Displays the human readable status of the referral."
+msgstr "Muestra el estado de la recomendación en formato legible para humanos."
+
+#: includes/variables/referral-id.php:17
+msgid "Displays the ID of the referral."
+msgstr "Muestra el ID de la recomendación."
+
+#: includes/variables/customer-referral-widget.php:17
+msgid "Displays the AutomateWoo Refer A Friend Share Widget."
+msgstr "Muestra el widget para compartir de Recomendar a un amigo de AutomateWoo."
+
+#: includes/variables/customer-referral-link.php:17
+msgid "Displays a link that the customer can use to refer their friends. It is recommended to set a fallback because if the customer is a guest no coupon can be displayed."
+msgstr "Muestra un enlace que el cliente puede utilizar para hacer una recomendación a sus amigos. Se recomienda establecer alguna alternativa, ya que si el cliente es un invitado no se mostrará ningún cupón."
+
+#: includes/variables/customer-referral-coupon.php:17
+msgid "Displays a coupon that the customer can use to refer their friends. If you are using this with an order trigger it is recommended to set a fallback because if the order is placed by a guest user no coupon will be displayed."
+msgstr "Muestra un cupón que el cliente puede usar para hacer una recomendación a sus amigos. Si lo estás usando con un activador de pedido, se recomienda establecer alguna alternativa, ya que si el pedido lo realiza un usuario invitado no se mostrará ningún cupón."
+
+#: includes/variables/advocate-referral-link.php:17
+msgid "Displays a link that the advocate can use to refer their friends."
+msgstr "Muestra un enlace que el promotor puede usar para hacer una recomendación a sus amigos."
+
+#: includes/variables/advocate-referral-coupon.php:17
+msgid "Displays a coupon that the advocate can use to refer their friends."
+msgstr "Muestra un cupón que el promotor puede usar para hacer una recomendación a sus amigos."
+
+#: includes/variables/advocate-lastname.php:17
+msgid "Displays the advocate's last name."
+msgstr "Muestra los apellidos del promotor."
+
+#: includes/variables/advocate-id.php:13
+msgid "Displays the user ID of the advocate."
+msgstr "Muestra el ID de usuario del promotor."
+
+#: includes/variables/advocate-firstname.php:16
+msgid "Displays the advocate's first name."
+msgstr "Muestra el nombre del promotor."
+
+#: includes/variables/advocate-email.php:17
+msgid "Displays the email address of the advocate."
+msgstr "Muestra el correo electrónico del promotor."
+
+#: includes/triggers/referral-status-changed.php:37
+msgid "To status"
+msgstr "Al estado"
+
+#: includes/triggers/referral-status-changed.php:29
+msgid "From status"
+msgstr "Del estado"
+
+#: includes/triggers/referral-status-changed.php:21
+msgid "Referral Status Changed"
+msgstr "El estado de la recomendación ha cambiado"
+
+#: includes/triggers/new-referral.php:29
+msgid "Initial Status"
+msgstr "Estado inicial"
+
+#: includes/triggers/new-referral.php:31
+msgid "The initial status will usually only be either Pending or Potentially Fraudulent."
+msgstr "Normalmente, el estado inicial será únicamente Pendiente o Potencialmente fraudulento."
+
+#: includes/triggers/new-referral.php:32,
+#: includes/triggers/referral-status-changed.php:31
+msgid "Leave blank for any status"
+msgstr "Déjalo en blanco para cualquier estado"
+
+#: includes/triggers/new-referral.php:21
+msgid "New Referral Created"
+msgstr "Se ha creado una nueva recomendación "
+
+#: includes/triggers/new-invite.php:27
+msgid "Customer data is not available with this trigger due to your privacy settings."
+msgstr "Los datos del cliente no están disponibles con este activador debido a tu configuración de privacidad."
+
+#: includes/triggers/new-invite.php:23
+msgid "New Invite Email Sent"
+msgstr "Se ha enviado un nuevo correo electrónico de invitación"
+
+#: includes/triggers/abstract-base.php:87
+msgid "Limit per advocate"
+msgstr "Límite por promotor"
+
+#: includes/triggers/abstract-base.php:88
+msgid "Limit how many times this workflow will ever run for each advocate."
+msgstr "Limita las veces que se ejecutará este flujo de trabajo por cada promotor."
+
+#: includes/triggers/abstract-base.php:89
+msgid "Leave blank for no limit"
+msgstr "Déjalo en blanco si no quieres que haya ningún límite"
+
+#: includes/triggers/abstract-base.php:73
+msgid "Advocate (Original customer)"
+msgstr "Promotor (cliente original)"
+
+#: includes/triggers/abstract-base.php:72
+msgid "Friend (Invited customer)"
+msgstr "Amigo (cliente invitado)"
+
+#: includes/triggers/abstract-base.php:68
+msgid "Since a referral has two customers, this field sets which customer's data is used in the workflow. The friend i.e. the referred customer or the advocate i.e. the customer who invited the friend."
+msgstr "Como en una recomendación hay dos clientes involucrados, este campo establece de qué cliente se usarán los datos en el flujo de trabajo. Puede ser el amigo (es decir, el cliente que ha recibido la recomendación) o el promotor (es decir, el cliente que ha invitado a su amigo)."
+
+#: includes/social-integrations/whatsapp.php:62
+msgid "Share via WhatsApp"
+msgstr "Compartir por WhatsApp"
+
+#: includes/social-integrations/twitter.php:42
+msgid "Share via Twitter"
+msgstr "Compartir en Twitter"
+
+#: includes/social-integrations/facebook.php:40
+msgid "Share via Facebook"
+msgstr "Compartir en Facebook"
+
+#: includes/rules/customer-total-referral-count.php:21
+msgid "Customer - Total Referral Count"
+msgstr "Cliente - Recuento total de recomendaciones "
+
+#: includes/rules/customer-rejected-referral-count.php:21
+msgid "Customer - Rejected Referral Count"
+msgstr "Cliente - Recuento de recomendaciones rechazadas"
+
+#: includes/rules/customer-potential-fraud-referral-count.php:21
+msgid "Customer - Potential Fraud Referral Count"
+msgstr "Cliente - Recuento de recomendaciones potencialmente fraudulentas"
+
+#: includes/rules/customer-pending-referral-count.php:21
+msgid "Customer - Pending Referral Count"
+msgstr "Cliente - Recuento de recomendaciones pendientes"
+
+#: includes/rules/customer-approved-referral-count.php:21
+msgid "Customer - Approved Referral Count"
+msgstr "Cliente - Recuento de recomendaciones aprobadas"
+
+#: includes/rules/advocate-total-referral-count.php:21
+msgid "Advocate - Total Referral Count"
+msgstr "Promotor - Recuento total de recomendaciones"
+
+#: includes/rules/advocate-rejected-referral-count.php:21
+msgid "Advocate - Rejected Referral Count"
+msgstr "Promotor - Recuento de recomendaciones rechazadas"
+
+#: includes/rules/advocate-potential-fraud-referral-count.php:21
+msgid "Advocate - Potential Fraud Referral Count"
+msgstr "Promotor - Recuento de recomendaciones potencialmente fraudulentas"
+
+#: includes/rules/advocate-pending-referral-count.php:21
+msgid "Advocate - Pending Referral Count"
+msgstr "Promotor - Recuento de recomendaciones pendientes"
+
+#: includes/rules/advocate-approved-referral-count.php:21
+msgid "Advocate - Approved Referral Count"
+msgstr "Promotor - Recuento de recomendaciones aprobadas"
+
+#: includes/admin/settings-tab.php:556
+msgid "The number of referrals an Advocate is limited to."
+msgstr "Número de recomendaciones a los que está limitado un promotor."
+
+#: includes/admin/settings-tab.php:555
+msgid "Referral limit"
+msgstr "Límite de recomendaciones"
+
+#: includes/admin/settings-tab.php:547
+msgid "Weekly"
+msgstr "Semanalmente"
+
+#: includes/admin/settings-tab.php:546
+msgid "Monthly"
+msgstr "Mensual"
+
+#: includes/admin/settings-tab.php:545
+msgid "Yearly"
+msgstr "Anual"
+
+#: includes/admin/settings-tab.php:544
+msgid "Lifetime"
+msgstr "Duración"
+
+#: includes/admin/settings-tab.php:540
+msgid "Select the length of time that where the referral limit applies."
+msgstr "Selecciona durante cuánto tiempo se aplica el límite de recomendaciones."
+
+#: includes/admin/settings-tab.php:539
+msgid "Referral limit timeframe"
+msgstr "Duración del límite de recomendaciones"
+
+#: includes/admin/settings-tab.php:530
+msgid "If checked, the number of referrals an Advocate can make is limited."
+msgstr "Si se marca esta opción, se limita el número de recomendaciones que puede hacer un promotor."
+
+#: includes/admin/settings-tab.php:529
+msgid "Limit the number of referrals"
+msgstr "Limitar el número de recomendaciones"
+
+#: includes/admin/settings-tab.php:523
+msgid "Limits the number of referrals an advocate can make within a certain time period. When an advocate's limit is reached they are prevented from earning referral credit and their shared referral coupons are disabled."
+msgstr "Limita el número de recomendaciones que puede hacer un promotor en un determinado período de tiempo. Cuando un promotor llega al límite, ya no obtiene más crédito por recomendaciones y sus cupones de recomendación compartidos se desactivan."
+
+#: includes/admin/settings-tab.php:522
+msgid "Advocate referral limit"
+msgstr "Límite de recomendaciones del promotor"
+
+#: includes/admin/settings-tab.php:484
+msgid "Sign up"
+msgstr "Regístrate"
+
+#: includes/admin/settings-tab.php:483
+msgid "Purchase"
+msgstr "Compra"
+
+#: includes/admin/settings-tab.php:479
+msgid "The reward event determines when a referral should be created. When setting to 'Purchase' (default) referrals will be created when a friend makes a purchase. When setting to 'Sign Up' referrals will be created when a friend creates a customer account and no purchase is required."
+msgstr "El evento de recompensa determina cuándo debe crearse una recomendación.  Si se establece en «Compra» (valor predeterminado), las recomendaciones se crearán cuando un amigo realice una compra. Si se establece en «Registro», las recomendaciones se crearán cuando un amigo abra una cuenta de cliente, sin necesidad de compra."
+
+#: includes/admin/settings-tab.php:478
+msgid "Reward event"
+msgstr "Evento de recompensa"
+
+#: includes/admin/settings-tab.php:469
+msgid "If this is unchecked, existing customers will be blocked from receiving referrals (default). If checked, existing customers can be referred but they can only be referred a single time."
+msgstr "Si esta opción está sin marcar, los clientes existentes estarán bloqueados y no podrán recibir recomendaciones (valor predeterminado). Si está marcada, los clientes existentes podrán recibir recomendaciones, pero solo una vez."
+
+#: includes/admin/settings-tab.php:468
+msgid "Allow existing customer referrals"
+msgstr "Permitir recomendaciones a clientes existentes"
+
+#: includes/admin/settings-tab.php:463
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/admin/settings-tab.php:456
+msgid "If are using 'Coupon Based' referrals you must include the variable {{ coupon_code }}. If you chose 'Link Based' ensure you have at least one link in the email body. Tracking parameters will be automatically added to all links in the email."
+msgstr "Si utilizas las recomendaciones basadas en un cupón, debes incluir la variable {{ coupon_code }}. Si eliges las recomendaciones basadas en un enlace, asegúrate de que has incluido al menos un enlace en el cuerpo del correo electrónico. Los parámetros de seguimiento se añadirán automáticamente a todos los enlaces del correo electrónico."
+
+#: includes/admin/settings-tab.php:454
+msgid "Email body"
+msgstr "Cuerpo del correo electrónico"
+
+#: includes/admin/settings-tab.php:447
+msgid "The template that will be used to send referral share emails. For info on creating custom templates please refer to the AutomateWoo documentation."
+msgstr "Plantilla que se usará para enviar los correos electrónicos para compartir recomendaciones. Si quieres información sobre cómo crear plantillas personalizadas, consulta la documentación de AutomateWoo."
+
+#: includes/admin/settings-tab.php:444
+msgid "Email template"
+msgstr "Plantilla de correo electrónico"
+
+#: includes/admin/settings-tab.php:436
+msgid "Email heading"
+msgstr "Encabezado del correo electrónico"
+
+#: includes/admin/settings-tab.php:428
+msgid "Email subject"
+msgstr "Asunto del correo electrónico"
+
+#: includes/admin/settings-tab.php:420
+msgid "Enable sharing via Email"
+msgstr "Activar la opción de compartir por correo electrónico"
+
+#: includes/admin/settings-tab.php:414
+msgid "Preview email"
+msgstr "Vista previa del correo electrónico"
+
+#: includes/admin/settings-tab.php:412
+msgid "You can insert dynamic content with the following variables: "
+msgstr "Puedes insertar contenido dinámico con las siguientes variables:"
+
+#: includes/admin/settings-tab.php:411
+msgid "The email template that is sent when an advocate refers a friend view email. "
+msgstr "La plantilla de correo electrónico que se envía cuando un promotor hace una recomendación a un amigo por correo electrónico. "
+
+#: includes/admin/settings-tab.php:410
+msgid "Email sharing"
+msgstr "Compartir por correo electrónico "
+
+#: includes/admin/settings-tab.php:401
+msgid "Optionally specify different text for Twitter shares as they are limited to 280 characters. If left blank the default share text will be used."
+msgstr "También tienes la opción de especificar un texto distinto para compartir en Twitter, ya que tiene un límite de 280 caracteres. Si se deja en blanco, se usará el texto por defecto para compartir."
+
+#: includes/admin/settings-tab.php:399
+msgid "Twitter default share text (optional)"
+msgstr "Texto por defecto para compartir en Twitter (opcional)"
+
+#: includes/admin/settings-tab.php:392
+msgid "This is the default text used when an advocate shares via Twitter or Facebook. If you chose 'Coupon Based' you must include the variable {{ coupon_code }}. A link to your shop will be added automatically."
+msgstr "Este es el texto que se utiliza por defecto cuando un promotor comparte en Twitter o Facebook. Si eliges «Basada en un cupón», debes incluir la variable {{ coupon_code }}. Se añadirá un enlace a tu tienda automáticamente."
+
+#: includes/admin/settings-tab.php:390
+msgid "Default share text"
+msgstr "Texto para compartir por defecto"
+
+#: includes/admin/settings-tab.php:382
+msgid "Enable sharing via WhatsApp"
+msgstr "Activar la opción de compartir por WhatsApp"
+
+#: includes/admin/settings-tab.php:374
+msgid "Enable sharing via Twitter"
+msgstr "Activar la opción de compartir en Twitter"
+
+#: includes/admin/settings-tab.php:366
+msgid "Enable sharing via Facebook"
+msgstr "Activar la opción de compartir en Facebook"
+
+#: includes/admin/settings-tab.php:361
+msgid "Social sharing"
+msgstr "Compartir en redes sociales"
+
+#: includes/admin/settings-tab.php:350
+msgid "Widget paragraph text"
+msgstr "Texto de párrafo del widget"
+
+#: includes/admin/settings-tab.php:342
+msgid "Widget heading"
+msgstr "Cabecera del widget"
+
+#: includes/admin/settings-tab.php:334
+msgid "Show widget on new account email"
+msgstr "Mostrar widget en el correo electrónico de la nueva cuenta"
+
+#: includes/admin/settings-tab.php:326
+msgid "Show widget on order emails"
+msgstr "Mostrar widget en los correos electrónicos de pedidos"
+
+#: includes/admin/settings-tab.php:318
+msgid "Do Not Display"
+msgstr "No mostrar"
+
+#: includes/admin/settings-tab.php:317
+msgid "Top Of Page"
+msgstr "Parte superior de la página"
+
+#: includes/admin/settings-tab.php:316
+msgid "Bottom Of Page"
+msgstr "Parte inferior de la página"
+
+#: includes/admin/settings-tab.php:313
+msgid "Show widget on order confirmation page"
+msgstr "Mostrar widget en la página de confirmación del pedido"
+
+#: includes/admin/settings-tab.php:305
+msgid "The share widget is a mini version of the share page that can added to the order confirmation page, order emails and be inserted in a workflow email with %s. Please note that customers will be prompted to create an account before they can refer their friends."
+msgstr "El widget para compartir es una versión reducida de la página para compartir; puede añadirse a la página de confirmación del pedido y a los correos electrónicos de pedidos, y se puede insertar en un correo electrónico de un flujo de trabajo con %s. Recuerda que se solicitará a los clientes que creen una cuenta antes de poder hacer recomendaciones a sus amigos."
+
+#: includes/admin/settings-tab.php:303
+msgid "Share widget"
+msgstr "Widget para compartir"
+
+#: includes/admin/settings-tab.php:291
+msgid "The minimum purchase amount required for store credit to be used."
+msgstr "Importe mínimo que debe alcanzar la compra para poder usar crédito de la tienda."
+
+#: includes/admin/settings-tab.php:281
+msgid "Reward amount"
+msgstr "Cantidad de la recompensa"
+
+#: includes/admin/settings-tab.php:274
+msgid "By selecting no reward you can instead reward them by using the AutomateWoo referral triggers and for example you could generate a coupon for the advocate."
+msgstr "Si seleccionas que no haya recompensa, puedes recompensar a los promotores usando activadores de recomendación de AutomateWoo para, por ejemplo, generar un cupón para ellos."
+
+#: includes/admin/settings-tab.php:271
+msgid "Reward type"
+msgstr "Tipo de recompensa"
+
+#: includes/admin/settings-tab.php:260
+msgid "Referral reward (for the advocate)"
+msgstr "Recompensa por la recomendación (para el promotor)"
+
+#: includes/admin/settings-tab.php:251
+msgid "Don't allow referrals for orders that only contain products from these categories."
+msgstr "No se permiten recomendaciones en pedidos que solo incluyan productos de las categorías aquí especificadas. "
+
+#: includes/admin/settings-tab.php:249
+msgid "No categories"
+msgstr "No hay categorías"
+
+#: includes/admin/settings-tab.php:247
+msgid "Excluded categories"
+msgstr "Categorías excluidas"
+
+#: includes/admin/settings-tab.php:240
+msgid "Only allow referrals for orders that contain at least one product from one of these categories."
+msgstr "Solo se permiten recomendaciones en pedidos que incluyen al menos un producto de alguna de las categorías aquí especificadas."
+
+#: includes/admin/settings-tab.php:238
+msgid "All categories"
+msgstr "Todas las categorías"
+
+#: includes/admin/settings-tab.php:236
+msgid "Product categories"
+msgstr "Categorías de los productos"
+
+#: includes/admin/settings-tab.php:227
+msgid "The minimum purchase amount that the referral offer is valid for."
+msgstr "Importe mínimo que debe alcanzar la compra para la que es válida la oferta de recomendación."
+
+#: includes/admin/settings-tab.php:226, includes/admin/settings-tab.php:290
+msgid "Minimum purchase amount"
+msgstr "Importe mínimo de la compra"
+
+#: includes/admin/settings-tab.php:220
+msgid "These are the requirements of referred purchases, if these are not met the advocate does not receive a reward and the friend does not get a discount."
+msgstr "Se trata de los requisitos para las compras derivadas de recomendaciones. Si no se cumplen, el promotor no recibe ninguna recompensa y el amigo no consigue ningún descuento."
+
+#: includes/admin/settings-tab.php:219
+msgid "Referral requirements"
+msgstr "Requisitos para las recomendaciones"
+
+#: includes/admin/settings-tab.php:206
+msgid "Share link expiry"
+msgstr "Caducidad del enlace para compartir"
+
+#: includes/admin/settings-tab.php:196
+msgid "This parameter is used when generating unique share links e.g. %s"
+msgstr "Este parámetro se utiliza al generar enlaces para compartir únicos, por ejemplo %s."
+
+#: includes/admin/settings-tab.php:194
+msgid "Share link parameter"
+msgstr "Parámetro del enlace para compartir"
+
+#: includes/admin/settings-tab.php:188
+msgid "By default share links expire after 4 weeks which means that a single advocate may own many different unique share links at one time. If you would like advocates to have a single share link for all time set the <b>Share Link Expiry</b> to 0."
+msgstr "Por defecto, los enlaces para compartir caducan a las 4 semanas; eso significa que un solo promotor puede tener distintos enlaces para compartir únicos a la vez. Si quieres que los promotores tengan un solo enlace para compartir único para siempre, establece la opción <b>Caducidad del enlace para compartir</b> en 0."
+
+#: includes/admin/settings-tab.php:187
+msgid "Link options"
+msgstr "Opciones de enlace"
+
+#: includes/admin/settings-tab.php:178, includes/admin/settings-tab.php:210
+msgid "unlimited"
+msgstr "ilimitado"
+
+#: includes/admin/settings-tab.php:175, includes/admin/settings-tab.php:207
+msgid "weeks"
+msgstr "semanas"
+
+#: includes/admin/settings-tab.php:174
+msgid "Coupon expiry"
+msgstr "Caducidad del cupón"
+
+#: includes/admin/settings-tab.php:165
+msgid "Offer amount"
+msgstr "Cantidad de la oferta"
+
+#: includes/admin/settings-tab.php:160
+msgid "Make this field blank if you do not want coupons to expire."
+msgstr "Deja este campo en blanco si no quieres que los cupones caduquen."
+
+#: includes/admin/settings-tab.php:154
+msgid "Offer type"
+msgstr "Tipo de oferta"
+
+#: includes/admin/settings-tab.php:148
+msgid "The coupon discount that advocates can offer to their friends. This coupon will only be valid for new customers. By default referral coupons expire after 4 weeks which means that a single advocate may own many different referral coupons at one time. If you would like advocates to have a single coupon for all time set the <b>Coupon Expiry</b> to 0."
+msgstr "Descuento del cupón que los promotores pueden ofrecer a sus amigos.  Este cupón solo será válido para clientes nuevos. Por defecto, los cupones de recomendación caducan a las 4 semanas; eso significa que un solo promotor puede tener distintos cupones de recomendación a la vez. Si quieres que los promotores tengan un solo cupón para siempre, establece la opción <b>Caducidad del cupón</b> en 0."
+
+#: includes/admin/settings-tab.php:147
+msgid "Referral offer (for the friend)"
+msgstr "Oferta de recomendación (para el amigo)"
+
+#: includes/admin/settings-tab.php:137
+msgid "If checked, advocates will not be able to view personal data of the customers they refer. If unchecked, the referred customer's full name will be shown in the referral account tab."
+msgstr "Si se marca esta opción, los promotores no podrán ver los datos personales de los clientes a los que hagan recomendaciones. Si no se marca, se mostrará el nombre completo del cliente que ha recibido la recomendación en la pestaña de la cuenta de la recomendación."
+
+#: includes/admin/settings-tab.php:136
+msgid "Hide referred customer data from advocates"
+msgstr "Ocultar los datos del cliente que recibe la recomendación a los promotores"
+
+#: includes/admin/settings-tab.php:128
+msgid "GDPR requires consent to be given before personal data is stored. Since it is impossible for invited emails to give consent it is recommended to anonymize these emails. Once enabled any existing stored emails will be anonymized."
+msgstr "El RGPD requiere obtener el consentimiento del usuario antes de almacenar datos personales. Sin embargo, como no es posible que los correos electrónicos invitados den su consentimiento, se recomienda anonimizar estos correos electrónicos. Una vez activada esta opción, los correos electrónicos almacenados existentes se anonimizarán."
+
+#: includes/admin/settings-tab.php:127
+msgid "Anonymize invited email data"
+msgstr "Anonimizar los datos de los correos electrónicos invitados"
+
+#: includes/admin/settings-tab.php:122
+msgid "Privacy"
+msgstr "Privacidad"
+
+#: includes/admin/settings-tab.php:110
+msgid "If checked, any store credit earned by a subscriber will be automatically applied to WooCommerce Subscription renewal payments. This will only work with payment gateway extensions that support %1$srecurring total modifications%2$s."
+msgstr "Si se marca esta opción, el crédito de la tienda que haya obtenido el suscriptor se usará automáticamente para pagar la renovación de la suscripción de WooCommerce. Esto solo funcionará con las extensiones de pasarelas de pago que admitan %1$smodificaciones del pago recurrente total%2$s."
+
+#: includes/admin/settings-tab.php:108
+msgid "Use store credit on subscription renewal payments"
+msgstr "Usar el crédito de la tienda para pagar la renovación de la suscripción"
+
+#: includes/admin/settings-tab.php:98
+msgid "Disable and approve referrals manually"
+msgstr "Desactivar y aprobar las recomendaciones manualmente"
+
+#: includes/admin/settings-tab.php:97
+msgid "On order paid"
+msgstr "Tras pagar el pedido"
+
+#: includes/admin/settings-tab.php:96
+msgid "On order completed"
+msgstr "Tras completar el pedido"
+
+#: includes/admin/settings-tab.php:93
+msgid "Referrals must be approved before the advocate is rewarded. Automatically approve referrals once the related order is paid or marked as complete. Please note referrals that could be fraudulent will never be auto-approved."
+msgstr "Las recomendaciones deben aprobarse para que el promotor reciba la recompensa. Aprueba automáticamente las recomendaciones una vez que el pedido relacionado se paga o se marca como completado. Ten en cuenta que las recomendaciones que podrían ser fraudulentas nunca se aprobarán automáticamente."
+
+#: includes/admin/settings-tab.php:92
+msgid "Auto-approval referrals"
+msgstr "Aprobación automática de las recomendaciones"
+
+#: includes/admin/settings-tab.php:84
+msgid "If unchecked any customer with an account can share."
+msgstr "Si esta opción está sin marcar, cualquier cliente que tenga cuenta podrá compartir."
+
+#: includes/admin/settings-tab.php:83
+msgid "Limit sharing to paying customers"
+msgstr "Limitar la posibilidad de compartir a los clientes de pago"
+
+#: includes/admin/settings-tab.php:74
+msgid "This URL is used when an advocate shares via email, Facebook or Twitter. If you are using link based referrals then the tracking parameter will be automatically added to this URL. You can also add analytics tracking parameters to the URL."
+msgstr "Esta URL se utiliza cuando un promotor comparte por correo electrónico, en Facebook o en Twitter. Si utilizas recomendaciones basadas en un enlace, el parámetro de seguimiento se añadirá automáticamente a esta URL. También puedes añadir parámetros de seguimiento de Analytics a la URL."
+
+#: includes/admin/settings-tab.php:73
+msgid "Share URL"
+msgstr "URL para compartir"
+
+#: includes/admin/settings-tab.php:63
+msgid "This is the main page that advocates can use to refer people to your store. This should not be set to the checkout as the referral widget will automatically be displayed on the order recieved page."
+msgstr "Esta es la página principal que pueden usar los promotores para recomendar tu tienda a los demás. No debe establecerse al finalizar la compra, ya que el widget de recomendación se mostrará automáticamente en la página de recepción del pedido."
+
+#: includes/admin/settings-tab.php:62
+msgid "Ensure you add the shortcode <code>[automatewoo_referrals_page]</code> to the content of the page you select."
+msgstr "Asegúrate de añadir el shortcode <code>[automatewoo_referrals_page]</code> al contenido de la página que selecciones."
+
+#: includes/admin/settings-tab.php:61
+msgid "Share page"
+msgstr "Página para compartir"
+
+#: includes/admin/settings-tab.php:53
+msgid "Link based"
+msgstr "Basada en un enlace"
+
+#: includes/admin/settings-tab.php:52
+msgid "Coupon based"
+msgstr "Basada en un cupón"
+
+#: includes/admin/settings-tab.php:48
+msgid "Choose whether you would like to offer a coupon incentive in your referral campaign. PLEASE NOTE: If you choose link based you must adjust the default text below to suit."
+msgstr "Elige si deseas ofrecer un cupón como incentivo en tu campaña de recomendaciones. Ten en cuenta que, si eliges el tipo basado en un enlace, deberás adaptar el texto por defecto siguiente como corresponda."
+
+#: includes/admin/settings-tab.php:47
+msgid "Share type"
+msgstr "Tipo de método para compartir"
+
+#: includes/admin/settings-tab.php:38
+msgid "Enable referrals"
+msgstr "Activar las recomendaciones"
+
+#: includes/admin/settings-tab.php:33
+msgid "Referral campaign options"
+msgstr "Opciones de la campaña de recomendaciones"
+
+#: includes/admin/referrals-report.php:161
+msgid "Referrals Value"
+msgstr "Valor de las recomendaciones"
+
+#: includes/admin/referrals-report.php:152
+msgid "Referrals Count"
+msgstr "Recuento de recomendaciones"
+
+#: includes/admin/referrals-report.php:106
+msgid "%s referred orders"
+msgstr "%s pedidos con recomendación"
+
+#: includes/admin/referrals-report.php:100
+msgid "%s referred orders value"
+msgstr "valor de %s pedidos con recomendación"
+
+#: includes/admin/admin.php:260
+msgid "Error! No emails were sent."
+msgstr "¡Error! No se ha enviado ningún correo electrónico."
+
+#: includes/admin/admin.php:264
+msgid "Success! Emails sent: %s"
+msgstr "¡Lo lograste! Correos electrónicos enviados: %s"
+
+#: includes/admin/admin.php:60
+msgid "Invites"
+msgstr "Invitaciones"
+
+#: includes/admin/admin.php:50, includes/admin/list-tables/advocates.php:24,
+#: includes/admin/list-tables/advocates.php:25
+msgid "Advocates"
+msgstr "Promotores"
+
+#: includes/admin/admin.php:49
+msgid "Referral advocates"
+msgstr "Promotores de las recomendaciones"
+
+#: includes/actions/resend-invite-email.php:50
+msgid "Email successfully sent."
+msgstr "El correo electrónico se ha enviado correctamente."
+
+#: includes/actions/resend-invite-email.php:27,
+#: includes/admin/list-tables/invites.php:78
+msgid "Email"
+msgstr "Email"
+
+#: includes/actions/resend-invite-email.php:19, includes/admin/admin.php:67,
+#: includes/admin/settings-tab.php:27,
+#: includes/rules/advocate-approved-referral-count.php:22,
+#: includes/rules/advocate-pending-referral-count.php:22,
+#: includes/rules/advocate-potential-fraud-referral-count.php:22,
+#: includes/rules/advocate-rejected-referral-count.php:22,
+#: includes/rules/advocate-total-referral-count.php:22,
+#: includes/rules/customer-approved-referral-count.php:22,
+#: includes/rules/customer-pending-referral-count.php:22,
+#: includes/rules/customer-potential-fraud-referral-count.php:22,
+#: includes/rules/customer-rejected-referral-count.php:22,
+#: includes/rules/customer-total-referral-count.php:22,
+#: includes/triggers/abstract-base.php:19
+msgid "Refer A Friend"
+msgstr "Recomendar a un amigo"
+
+#: includes/actions/resend-invite-email.php:18
+msgid "Resend a referral invite email from the advocate to a specified email address. For example, this can be used to resend the invite email after a delay."
+msgstr "Volver a enviar el correo electrónico de invitación de una recomendación del promotor a una dirección de correo electrónico especificada. Por ejemplo, esta opción puede usarse para volver a enviar un correo electrónico de invitación después de un retraso."
+
+#: includes/actions/resend-invite-email.php:17
+msgid "Resend Referral Invite Email"
+msgstr "Volver a enviar el correo electrónico de invitación de una recomendación"
+
+#: templates/share-page.php:57
+msgid "Or"
+msgstr "O"
+
+#: templates/share-page-login.php:17
+msgid "Login or register"
+msgstr "Iniciar sesión o registrarse"
+
+#: templates/share-page-login.php:16
+msgid "You must have an account to refer a friend."
+msgstr "Debes tener una cuenta para hacer una recomendación a un amigo."
+
+#: templates/share-page-login.php:15
+msgid "Please Login"
+msgstr "Inicia sesión"
+
+#: templates/share-page-form.php:26
+msgid "Send"
+msgstr "Enviar"
+
+#: templates/share-page-form.php:22
+msgid "Enter email address"
+msgstr "Introduce la dirección de correo electrónico"
+
+#: templates/email-share-buttons.php:36, templates/share-widget.php:41
+msgid "Share via Email"
+msgstr "Compartir por correo electrónico"
+
+#: templates/account-tab.php:27
+msgid "You currently have %s store credit available."
+msgstr "Actualmente tienes disponible %s de crédito de la tienda."
+
+#: templates/account-tab.php:29
+msgid "You do not have any store credit available."
+msgstr "No tienes crédito de la tienda disponible."
+
+#: templates/account-tab.php:46
+msgid "You do not have any completed referrals yet."
+msgstr "Aún no tienes ninguna recomendación completada."
+
+#: templates/account-tab-referral-tables.php:54
+msgid "Used Referrals"
+msgstr "Recomendaciones utilizadas"
+
+#: templates/account-tab-referral-table-row.php:25,
+#: templates/account-tab-referral-tables.php:33,
+#: templates/account-tab-referral-tables.php:67,
+#: includes/admin/list-tables/invites.php:80
+msgid "Date"
+msgstr "﻿Fecha"
+
+#: templates/account-tab-referral-table-row.php:23,
+#: templates/account-tab-referral-tables.php:31,
+#: templates/account-tab-referral-tables.php:65,
+#: includes/triggers/abstract-base.php:67,
+#: includes/admin/list-tables/referrals.php:90,
+#: includes/admin/views/page-view-referral.php:143
+msgid "Customer"
+msgstr "Cliente"
+
+#: templates/account-tab-referral-table-row.php:20,
+#: templates/account-tab-referral-tables.php:28,
+#: templates/account-tab-referral-tables.php:62
+msgid "Remaining balance"
+msgstr "Saldo restante"
+
+#: templates/account-tab-referral-table-row.php:19,
+#: templates/account-tab-referral-tables.php:27,
+#: templates/account-tab-referral-tables.php:61
+msgid "Credit"
+msgstr "Crédito"
+
+#: includes/workflows.php:97, includes/admin/list-tables/advocates.php:40,
+#: includes/admin/list-tables/invites.php:79,
+#: includes/admin/list-tables/referral-codes.php:44,
+#: includes/admin/list-tables/referrals.php:89,
+#: includes/admin/views/page-view-referral.php:110
+msgid "Advocate"
+msgstr "Promotor"
+
+#: includes/referral.php:315, includes/admin/admin.php:312
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/referral-validator.php:288
+msgid "Advocate referral limit has been reached."
+msgstr "Se ha alcanzado el límite de recomendaciones del promotor."
+
+#: includes/referral-validator.php:273
+msgid "Customer has already been referred."
+msgstr "El cliente ya ha recibido una recomendación."
+
+#: includes/referral-validator.php:223
+msgid "Order items were not valid."
+msgstr "Los artículos del pedido no eran válidos."
+
+#: includes/referral-validator.php:184
+msgid "Customer is not new."
+msgstr "El cliente no es nuevo."
+
+#: includes/referral-validator.php:134
+msgid "Advocate ID matches the Customer ID."
+msgstr "El ID del promotor coincide con el ID del cliente."
+
+#: includes/privacy.php:420, includes/workflows.php:81
+msgid "Referral"
+msgstr "Recomendación"
+
+#: includes/privacy.php:377
+msgid "Refer A Friend referral codes"
+msgstr "Códigos de recomendación de Recomendar a un amigo"
+
+#: includes/privacy.php:323
+msgid "Refer A Friend invites"
+msgstr "Invitaciones de Recomendar a un amigo"
+
+#: includes/privacy.php:250
+msgid "Refer A Friend referrals"
+msgstr "Recomendaciones de Recomendar a un amigo"
+
+#: includes/privacy.php:162
+msgid "Anonymized user's referrals."
+msgstr "Recomendaciones del usuario anonimizadas."
+
+#: includes/privacy.php:117
+msgid "Erased user's invite records."
+msgstr "Registros de invitaciones del usuario eliminados."
+
+#: includes/privacy.php:74
+msgid "Erased user's referral codes."
+msgstr "Códigos de recomendación del usuario eliminados."
+
+#: includes/privacy.php:31, includes/privacy.php:35,
+#: includes/admin/admin.php:59
+msgid "Referral invites"
+msgstr "Invitaciones de recomendación"
+
+#: includes/privacy.php:29, includes/privacy.php:36,
+#: includes/admin/admin.php:54, includes/admin/admin.php:55,
+#: includes/admin/list-tables/referral-codes.php:25
+msgid "Referral codes"
+msgstr "Códigos de recomendación"
+
+#: includes/privacy-policy-guide.php:36
+msgid "If you choose to use our customer referral program, your personal data, such as your name and your unique referral code, may be shared with those you choose to share with. This data may be shared via Facebook, Twitter or email if you click on the share buttons or submit the share via email form."
+msgstr "Si decides utilizar nuestro programa de recomendaciones de clientes, puede que tus datos personales, como el nombre y tu código de recomendación único, se compartan con las personas que reciban tus recomendaciones. Estos datos pueden compartirse en Facebook, en Twitter o por correo electrónico si haces clic en los botones para compartir o envías el formulario para compartir por correo electrónico."
+
+#: includes/privacy-policy-guide.php:35
+msgid "Refer A Friend allows advocates to share via email, Facebook or Twitter. Their personal data may be used in this process."
+msgstr "Recomendar a un amigo permite a los promotores compartir por correo electrónico, en Facebook o en Twitter. Puede que en este proceso se utilicen sus datos personales. "
+
+#: includes/privacy-policy-guide.php:34
+msgid "What we share with others"
+msgstr "Qué compartimos con otros"
+
+#: includes/privacy-policy-guide.php:33
+msgid "Referral codes, referral details and email invite logs are retained until you request removal of your data."
+msgstr "Los códigos de recomendación, los detalles de la recomendación y los registros de las invitaciones por correo electrónico se conservan hasta que solicitas que se eliminen tus datos."
+
+#: includes/privacy-policy-guide.php:32
+msgid "When an order is placed which is the result of a customer referral, we store a record of the details of this referral. Your IP address and other personal data supplied for the order may also be used to prevent fraud."
+msgstr "Cuando se realiza un pedido como resultado de la recomendación de un cliente, almacenamos un registro de los detalles de la recomendación. También es posible que se utilicen tu dirección IP y otros datos personales proporcionados para el pedido para evitar fraudes."
+
+#: includes/privacy-policy-guide.php:31
+msgid "To enable our customer referral program we may create and store unique codes that are linked to your account on our website. These codes will not be shared with anyone unless you choose to. We also keep a record when you share our store with a friend via email with our customer referral program. The email address is anonymized before it is stored."
+msgstr "Para activar nuestro programa de recomendaciones de clientes, podemos crear y almacenar códigos únicos enlazados a tu cuenta en nuestro sitio web. Estos códigos no se compartirán con nadie a menos que tú decidas hacerlo. También registramos si has compartido algo con un amigo por correo electrónico mediante el programa de recomendaciones de clientes. La dirección de correo electrónico se anonimiza antes de almacenarla."
+
+#: includes/privacy-policy-guide.php:30
+msgid "Refer A Friend stores a record of all referred orders and creates unique referral codes that can identify each advocate. The plugin keeps a record each time the advocate shares via email. The invited emails may be anonymized depending on your settings."
+msgstr "Recomendar a un amigo almacena un registro de todos los pedidos derivados de recomendaciones y crea códigos de recomendación únicos que pueden identificar a cada promotor. El plugin crea un registro cada vez que el promotor comparte la tienda por correo electrónico. Dependiendo de tu configuración, es posible que los correos electrónicos de invitación se anonimicen."
+
+#: includes/privacy-policy-guide.php:29
+msgid "Customer referral data"
+msgstr "Datos de la recomendación del cliente"
+
+#: includes/privacy-policy-guide.php:28
+msgid "Customers who use the referral program will have their IP address stored each time they share. Depending on your settings the IP address of referred customers may also be stored for the purpose of fraud prevention. This may not need to be included in your privacy policy since WooCommerce also tracks IP addresses."
+msgstr "La dirección IP de los clientes que utilizan el programa de recomendaciones se almacenará cada vez que compartan algo. Dependiendo de tu configuración, la dirección IP de los clientes que han recibido la recomendación también puede almacenarse con la finalidad de evitar fraudes. Puede que no sea necesario incluir esto en tu Política de privacidad, ya que WooCommerce también hace un seguimiento de las direcciones IP."
+
+#: includes/privacy-policy-guide.php:27
+msgid "IP Addresses"
+msgstr "Direcciones IP"
+
+#: includes/privacy-policy-guide.php:26
+msgid "%s - Enables the function of our referral program - Expires after 1 year"
+msgstr "%s - Activa la función de nuestro programa de recomendaciones - Caduca al cabo de un año"
+
+#: includes/privacy-policy-guide.php:25
+msgid "We use one cookie to enable the function of our customer referral program. This cookie stores a unique code that cannot identify you as a website visitor. This unique code can only identify the person who shared the coupon code or referral link."
+msgstr "Utilizamos una cookie para activar la función de nuestro programa de recomendaciones de clientes. Esta cookie almacena un código único que no puede identificarte como visitante del sitio web. Dicho código único solo puede identificar a la persona que ha compartido el código de cupón o el enlace de la recomendación."
+
+#: includes/privacy-policy-guide.php:24
+msgid "Refer A Friend uses one cookie if your store is configured to use link-based referrals. This cookie is added when a user clicks on a referral link and stores a code that is unique to the advocate who shared the link."
+msgstr "Recomendar a un amigo utiliza una cookie si la tienda está configurada para usar recomendaciones basadas en enlaces. Esta cookie se añade cuando un usuario hace clic en el enlace de una recomendación y almacena un código único para el promotor que ha compartido el enlace. "
+
+#: includes/privacy-policy-guide.php:23
+msgid "Cookies"
+msgstr "Cookies"
+
+#: includes/privacy-policy-guide.php:22
+msgid "What we collect and store"
+msgstr "Qué recopilamos y almacenamos"
+
+#: includes/options.php:111
+msgid ""
+"Hi there! \n"
+"\n"
+" You have been invited to shop at %s and you've got a $20 discount waiting for you when you spend $100. Use the coupon code below to claim your offer."
+msgstr ""
+"¡Hola! \n"
+"\n"
+" Te han invitado a comprar en %s y tienes un descuento de 20 euros por 100 euros de compra. Utiliza el cupón siguiente para disfrutar de tu oferta."
+
+#: includes/options.php:108
+msgid "{{ advocate.first_name }} has sent you $20 to spend"
+msgstr "{{ advocate.first_name }} te ha enviado 20 euros para gastar"
+
+#: includes/options.php:107
+msgid "Your friend gave you $20 off!"
+msgstr "¡Tu amigo te ha dado 20 euros de descuento!"
+
+#: includes/options.php:102
+msgid "Get a free $20 credit for %s when you spend $100. Use coupon: {{ coupon_code }}"
+msgstr "Obtén un crédito gratuito de 20 euros para %s al gastar 100 euros. Usa el cupón {{ coupon_code }}"
+
+#: includes/options.php:82
+msgid "Invite a friend via Facebook, Twitter or email and they’ll get a $20 welcome credit, plus you’ll get $20 in your own account with their first order, as our little thank you."
+msgstr "Invita a un amigo por Facebook, Twitter o correo electrónico y conseguirá un crédito de bienvenida de 20 euros. Pero eso no es todo: con su primer pedido recibirás 20 euros en tu cuenta como muestra de agradecimiento."
+
+#: includes/options.php:81
+msgid "Give $20, Get $20"
+msgstr "Da 20 euros y recíbelos tú también"
+
+#: includes/invite-form-handler.php:155
+msgid "<strong>%s</strong> is already a customer."
+msgstr "<strong>%s</strong> ya es cliente."
+
+#: includes/invite-form-handler.php:159
+msgid "<strong>%s</strong> has already been referred."
+msgstr "<strong>%s</strong> ya ha recibido una recomendación."
+
+#: includes/invite-form-handler.php:149
+msgid "Referring your own email (%s) is not allowed."
+msgstr "No es posible enviar una recomendación a tu propio correo electrónico (%s)."
+
+#: includes/invite-form-handler.php:145
+msgid "%s is not a valid email address."
+msgstr "%s no es una dirección de correo electrónico válida."
+
+#: includes/invite-form-handler.php:130
+msgid "Success! %d referral email sent."
+msgid_plural "Success! %d referral emails sent."
+msgstr[0] "¡Conseguido! Se ha enviado %d correo electrónico."
+msgstr[1] "¡Conseguido! Se han enviado %d correos electrónicos."
+
+#: includes/invite-form-handler.php:120
+msgid "Sorry, your emails failed to send."
+msgstr "Lo sentimos, no se han podido enviar tus correos electrónicos."
+
+#: includes/invite-form-handler.php:70
+msgid "Unable to send %d invite. The email address may be unsubscribed or not eligible to be referred."
+msgid_plural "Unable to send %d invites. The email addresses may be unsubscribed or not eligible to be referred."
+msgstr[0] "No se ha podido enviar %d invitación. Puede que se haya cancelado la suscripción de la dirección de correo electrónico o que esta no sea válida para recibir recomendaciones."
+msgstr[1] "No se han podido enviar %d invitaciones. Puede que se haya cancelado la suscripción de las direcciones de correo electrónico o que no sean válidas para recibir recomendaciones."
+
+#: includes/invite-form-handler.php:42
+msgid "Please enter some email addresses."
+msgstr "Introduce varias direcciones de correo electrónico."
+
+#: includes/frontend.php:139
+msgid "Referrals are currently disabled."
+msgstr "Actualmente las recomendaciones están desactivadas."
+
+#: includes/frontend-endpoints.php:50
+msgid "Invalid share URL."
+msgstr "La URL para compartir no es válida."
+
+#: includes/credit.php:349
+msgctxt "Shows the amount of credit"
+msgid "The %s referral credit used in this order was refunded to the customer's balance."
+msgstr "El crédito de la recomendación de %s utilizado en este pedido se ha añadido al saldo del cliente."
+
+#: includes/credit.php:214
+msgid "You have %1$s referral credit available but it is not valid for your current cart. %2$s"
+msgstr "Tienes disponible un crédito por recomendaciones de %1$s, pero no es válido para tu carrito actual. %2$s"
+
+#: includes/credit.php:205
+msgid "The minimum spend is %s."
+msgstr "El gasto mínimo es %s."
+
+#: includes/credit.php:31
+msgid "Referral Credit"
+msgstr "Crédito por recomendaciones"
+
+#: includes/credit-validator.php:59, includes/referral-validator.php:156
+msgid "Order does not meet the minimum purchase amount."
+msgstr "El pedido no llega a la cantidad mínima de compra."
+
+#: includes/coupons.php:373
+msgid "It appears that this coupon has reached its referral limit and is no longer available."
+msgstr "Parece que este cupón ha alcanzado el límite de recomendaciones y ya no está disponible."
+
+#: includes/coupons.php:369
+msgid "It appears you have already used a referral coupon before."
+msgstr "Parece que ya has usado un cupón de recomendación anteriormente. "
+
+#: includes/coupons.php:365
+msgid "You don't appear to be a new customer which is required to use a referral coupon."
+msgstr "No parece que seas un cliente nuevo, lo cual es uno de los requisitos para usar un cupón de recomendación."
+
+#: includes/coupons.php:361
+msgid "It appears you are trying to use your own referral coupon."
+msgstr "Parece que estás intentando usar tu propio cupón de recomendación."
+
+#: includes/coupons.php:357
+msgid "There is a problem with this referral coupon."
+msgstr "Hay un problema con este cupón de recomendación."
+
+#: includes/coupons.php:161
+msgid "Your coupon is not valid. It may have expired."
+msgstr "Tu cupón no es válido. Puede que haya caducado."
+
+#: includes/automatewoo-referrals.php:203,
+#: includes/admin/controllers/referrals.php:317
+msgid "Rejected"
+msgstr "Rechazado"
+
+#: includes/automatewoo-referrals.php:202,
+#: includes/admin/controllers/referrals.php:318
+msgid "Pending"
+msgstr "Pendiente"
+
+#: includes/automatewoo-referrals.php:201,
+#: includes/admin/controllers/referrals.php:319
+msgid "Potential Fraud"
+msgstr "Posible fraude"
+
+#: includes/automatewoo-referrals.php:200,
+#: includes/admin/controllers/referrals.php:316
+msgid "Approved"
+msgstr "Aprobado"
+
+#: includes/automatewoo-referrals.php:179
+msgid "No Reward"
+msgstr "Sin recompensa"
+
+#: includes/automatewoo-referrals.php:178
+msgid "Store Credit - Percentage Of Referral Order"
+msgstr "Crédito de la tienda - Porcentaje del pedido derivado de la recomendación"
+
+#: includes/automatewoo-referrals.php:177
+msgid "Store Credit - Fixed Amount"
+msgstr "Crédito de la tienda - Cantidad fija"
+
+#: includes/automatewoo-referrals.php:164
+msgid "Coupon Discount - Percentage"
+msgstr "Descuento del cupón - Porcentaje"
+
+#: includes/automatewoo-referrals.php:163
+msgid "Coupon Discount - Fixed Amount"
+msgstr "Descuento del cupón - Cantidad fija"
+
+#: includes/advocate.php:507
+msgid "Sorry, your account has reached the weekly referral limit."
+msgstr "Lo siento, tu cuenta ha alcanzado el límite semanal de recomendaciones."
+
+#: includes/advocate.php:501
+msgid "Sorry, your account has reached the monthly referral limit."
+msgstr "Lo siento, tu cuenta ha alcanzado el límite mensual de recomendaciones."
+
+#: includes/advocate.php:495
+msgid "Sorry, your account has reached the yearly referral limit."
+msgstr "Lo siento, tu cuenta ha alcanzado el límite anual de recomendaciones."
+
+#: includes/advocate.php:489
+msgid "Sorry, your account has reached the lifetime referral limit."
+msgstr "Lo siento, tu cuenta ha alcanzado el límite total de recomendaciones."
+
+#: includes/advocate.php:466
+msgid "You must be a paying customer to refer friends."
+msgstr "Para hacer recomendaciones a amigos debes ser un cliente de pago."
+
+#: includes/advocate.php:455
+msgid "Sorry, your account is not permitted to refer friends."
+msgstr "Lo siento, no se permite hacer recomendaciones a amigos desde tu cuenta."
+
+#: includes/account-endpoint.php:40
+msgid "Refer a friend here."
+msgstr "Haz una recomendación a un amigo desde aquí."
+
+#: includes/account-endpoint.php:32, includes/privacy.php:30,
+#: includes/privacy.php:34, includes/admin/admin.php:44,
+#: includes/admin/admin.php:45, includes/admin/reports-tab.php:13
+msgid "Referrals"
+msgstr "Referentes"
+
+#: automatewoo-referrals.php:122
+msgid "%s The plugin requires AutomateWoo to be installed and activated."
+msgstr "%s El plugin requiere que AutomateWoo esté instalado y activado."
+
+#: automatewoo-referrals.php:124
+msgid "%1$s The plugin requires AutomateWoo version %2$s or newer."
+msgstr "%1$s El plugin requiere AutomateWoo %2$s o una versión posterior."
+
+#: automatewoo-referrals.php:126
+msgid "%s AutomateWoo plugin directory name is not correct."
+msgstr "%s El nombre del directorio de plugins de AutomateWoo no es correcto."
+
+#: automatewoo-referrals.php:119
+msgid "%s is inactive."
+msgstr "%s está inactivo."
+
+#: automatewoo-referrals.php:48, includes/privacy.php:26
+msgid "AutomateWoo - Refer A Friend"
+msgstr "AutomateWoo - Recomendar a un amigo"
