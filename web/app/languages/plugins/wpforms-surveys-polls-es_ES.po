@@ -1,0 +1,631 @@
+# Translation of WPForms - WPForms Surveys Polls in Spanish (Spain)
+# This file is distributed under the same license as the WPForms - WPForms Surveys Polls package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 00:05:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WPForms - WPForms Surveys Polls\n"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:501
+msgid "Export All"
+msgstr "Exportar todo"
+
+#: wpforms-surveys-polls/wpforms-surveys-polls.php:107
+msgid "The WPForms Surveys and Polls plugin has been deactivated, because it requires WPForms v1.6.0.1 or later to work."
+msgstr "El plugin WPForms Surveys and Polls ha sido desactivado, ya que necesita WPForms v1.6.0.1 o posterior para funcionar."
+
+#: wpforms-surveys-polls/src/Admin.php:63
+msgid "This feature can't currently be used because entry storage is disabled for this form. Please go to Settings > General and uncheck the \"Disable storing entry information in WordPress\" option. Then, try enabling this feature again."
+msgstr "Esta característica no se puede usar actualmente porque el almacenamiento de entradas está deshabilitado para este formulario. Ve a Ajustes > General y desmarca la opción \"Desactivar el almacenamiento de información de entradas en WordPress\". A continuación, intenta activar esta característica de nuevo."
+
+#: wpforms-surveys-polls/src/Admin.php:62
+msgid "You've just turned off storing entry information in WordPress. Surveys and Polls addon requires entries to be stored, otherwise, it won't be able to process the data and display you the results."
+msgstr "Acabas de desactivar el almacenamiento de información de entradas en WordPress. El complemento Surveys and Polls requiere que las entradas se almacenen, de lo contrario, no será capaz de procesar los datos y mostrar los resultados."
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:448
+msgid "Error fetching the data."
+msgstr "Error al capturar los datos."
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:123
+msgid "Additional comments or suggestions"
+msgstr "Comentarios adicionales o sugerencias"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:117
+msgid "Very Likely"
+msgstr "Muy probable"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:116
+msgid "Likely"
+msgstr "Probable"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:114
+msgid "Unlikely"
+msgstr "Improbable"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:113
+msgid "Very Unlikely"
+msgstr "Muy impobable"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:110
+msgid "Recommend our company to others"
+msgstr "Recomiendes nuestra empresa a otros"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:109
+msgid "Recommend our product to others"
+msgstr "Recomiendes nuestro producto a otros"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:108
+msgid "Buy from us again"
+msgstr "Nos compres otra vez"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:104
+msgid "How likely are you to"
+msgstr "¿Cómo de probable es que"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:98
+msgid "Very Satisfied"
+msgstr "Muy satisfecho"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:97
+msgid "Satisfied"
+msgstr "Satisfecho"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:95
+msgid "Unsatisfied"
+msgstr "Insatisfecho"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:94
+msgid "Very Unsatisfied"
+msgstr "Muy insatisfecho"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:91
+msgid "Company Overall"
+msgstr "General de la empresa"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:90
+msgid "Service"
+msgstr "Servicio"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:89
+msgid "Purchase"
+msgstr "Comprar"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:85
+msgid "How satisfied are you with"
+msgstr "¿Cómo de satisfecho estás con"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:60
+msgid "We're sorry you did not have a good experience. Please let us know how we can do better."
+msgstr "Lamentamos que no hayas tenido una buena experiencia. Por favor, haznos saber cómo podemos mejorar."
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:59
+msgid "How can we improve?"
+msgstr "¿Cómo podemos mejorar?"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:49
+msgid "Overall, how would you rate your experience with us?"
+msgstr "En general, ¿cómo calificarías tu experiencia con nosotros?"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:48
+msgid "Your Experience"
+msgstr "Tu experiencia"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:40
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:32
+msgid "Name"
+msgstr "Nombre"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:21
+msgid "Collect customer feedback, then generate survey reports to determine satisfaction and spot trends."
+msgstr "Recoge comentarios de los clientes y, a continuación genera informes de encuestas para determinar la satisfacción y detectar tendencias."
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:19
+msgid "Survey Form"
+msgstr "Formulario de encuesta"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:67
+msgid "Thanks for voting! Results are below."
+msgstr "¡Gracias por votar! Los resultados se muestran a continuación."
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:64
+msgid "Vote"
+msgstr "Votar"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:57
+msgid "Other"
+msgstr "Otro"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:53
+msgid "Purple"
+msgstr "Púrpura"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:49
+msgid "Orange"
+msgstr "Naranja"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:45
+msgid "Blue"
+msgstr "Azul"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:41
+msgid "Green"
+msgstr "Verde"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:37
+msgid "Red"
+msgstr "Rojo"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:32
+msgid "What is your favorite color?"
+msgstr "¿Cuál es tu color favorito?"
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:21
+msgid "Ask visitors a question and display the results after they provide an answer."
+msgstr "Haz una pregunta a los visitantes y muestra los resultados después de que den una respuesta."
+
+#: wpforms-surveys-polls/src/Templates/Poll.php:19
+msgid "Poll Form"
+msgstr "Formulario de votación"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveySimple.php:21
+msgid "Find out if your clients or customers would recommend you to someone else with this basic Net Promoter Score survey template."
+msgstr "Averigua si tus clientes o compradores te recomendarían a otra persona con esta plantilla de encuesta básica de Net Promoter Score."
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveySimple.php:19
+msgid "NPS Survey Simple Form"
+msgstr "Formulario simple de NPS Survey"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:149
+#: wpforms-surveys-polls/src/Templates/Survey.php:131
+#: wpforms-surveys-polls/src/Templates/Poll.php:68
+#: wpforms-surveys-polls/src/Templates/NPSSurveySimple.php:82
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:146
+#: wpforms-surveys-polls/src/Templates/Survey.php:128
+#: wpforms-surveys-polls/src/Templates/NPSSurveySimple.php:79
+msgid "Submit"
+msgstr "Enviar"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:123
+msgid "We'll use this to get in touch with you, so we can make things right - Thanks for giving us a chance 🙂"
+msgstr "Usaremos esto para ponernos en contacto contigo, para que podamos hacer las cosas bien - Gracias por darnos una oportunidad 🙂"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:122
+msgid "What is your email address?"
+msgstr "¿Cuál es tu correo electrónico?"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:103
+msgid "No"
+msgstr "No"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:99
+msgid "Yes"
+msgstr "Sí"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:96
+msgid "Would you be willing to provide us a testimonial?"
+msgstr "¿Estarías dispuesto a compartir tu testimonio?"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:79
+msgid "What do you like most about us?"
+msgstr "¿Qué es lo que más te gusta de nosotros?"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:57
+#: wpforms-surveys-polls/src/Templates/NPSSurveySimple.php:58
+msgid "What could we do to improve?"
+msgstr "¿Qué podemos hacer para mejorar?"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:40
+#: wpforms-surveys-polls/src/Templates/NPSSurveySimple.php:41
+msgid "How did we disappoint you and what can we do to make things right?"
+msgstr "¿En qué te hemos decepcionado y qué podemos hacer para hacer las cosas bien?"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:32
+#: wpforms-surveys-polls/src/Templates/NPSSurveySimple.php:32
+msgid "How likely are you to recommend us to a friend or colleague?"
+msgstr "¿Cómo de probable es que nos recomiendes a un amigo o colega?"
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:21
+msgid "Measure customer loyalty and find out exactly what they are thinking with this enhanced Net Promoter Score survey template."
+msgstr "Mida la lealtad del cliente y averigua exactamente lo que están pensando con esta plantilla de encuesta mejorada de Net Promoter score."
+
+#: wpforms-surveys-polls/src/Templates/NPSSurveyEnhanced.php:19
+msgid "NPS Survey Enhanced Form"
+msgstr "Formulario mejorado de encuesta NPS"
+
+#: wpforms-surveys-polls/src/Reporting/Fields.php:487
+msgid "Rating"
+msgstr "Valoración"
+
+#: wpforms-surveys-polls/src/Reporting/Fields.php:483
+msgid "Checkboxes"
+msgstr "Casillas"
+
+#: wpforms-surveys-polls/src/Reporting/Fields.php:479
+msgid "Multiple Choice"
+msgstr "Opciones múltiple"
+
+#: wpforms-surveys-polls/src/Reporting/Fields.php:475
+msgid "Dropdown"
+msgstr "Lista desplegable"
+
+#: wpforms-surveys-polls/src/Reporting/Fields.php:471
+msgid "Paragraph Text"
+msgstr "Texto del párrafo"
+
+#: wpforms-surveys-polls/src/Reporting/Fields.php:467
+msgid "Single Line Text"
+msgstr "Texto de una sola línea"
+
+#. translators: %s - number of smileys.
+#: wpforms-surveys-polls/src/Reporting/Fields.php:137
+msgid "%s smiley"
+msgid_plural "%s smileys"
+msgstr[0] "%s Carita contenta"
+msgstr[1] "%s caras sonrientes"
+
+#. translators: %s - number of thumbs.
+#: wpforms-surveys-polls/src/Reporting/Fields.php:133
+msgid "%s thumb"
+msgid_plural "%s thumbs"
+msgstr[0] "%s pulgar arriba"
+msgstr[1] "%s pulgares arriba"
+
+#. translators: %s - number of hearts.
+#: wpforms-surveys-polls/src/Reporting/Fields.php:129
+msgid "%s heart"
+msgid_plural "%s hearts"
+msgstr[0] "%s corazón"
+msgstr[1] "%s corazones"
+
+#. translators: %s - number of stars.
+#: wpforms-surveys-polls/src/Reporting/Fields.php:125
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] "%s estrella"
+msgstr[1] "%s estrellas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:810
+msgid "Skipped"
+msgstr "Omitidas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:805
+msgid "Average"
+msgstr "Media"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:800
+msgid "Answered"
+msgstr "Contestadas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:791
+msgid "View respondent's answers"
+msgstr "Ver respuestas del encuestado"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:786
+msgid "Date"
+msgstr "Fecha"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:733
+msgid "Responses"
+msgstr "Respuestas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:732
+#: wpforms-surveys-polls/src/Reporting/Admin.php:785
+msgid "Answers"
+msgstr "Respuestas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:713
+msgid "Promoters (9-10)"
+msgstr "Promotores (9-10)"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:712
+msgid "Passives (7-8)"
+msgstr "Pasivos (7-8)"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:711
+msgid "Detractors (0-6)"
+msgstr "Detractores (0-6)"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:704
+msgid "Download Chart"
+msgstr "Descargar gráfico"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:695
+msgid "There are no answers to this question yet."
+msgstr "Todavía no hay respuestas a esta pregunta."
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:688
+msgid "Question"
+msgstr "Pregunta"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:683
+msgid "View bar chart"
+msgstr "Ver gráfico de barras"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:680
+msgid "View horizontal bar chart"
+msgstr "Ver gráfico de barras horizontales"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:677
+msgid "View pie chart"
+msgstr "Ver gráfico circular"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:674
+msgid "View line chart"
+msgstr "Ver gráfico de líneas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:667
+msgid "Save as PDF"
+msgstr "Guardar como PDF"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:666
+msgid "Save as JPG"
+msgstr "Guardar como JPG"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:664
+msgid "Export"
+msgstr "Exportar"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:655
+msgid "Toggle displaying question"
+msgstr "Alternar el mostrar la pregunta"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:627
+msgid "We're crunching the numbers, this may take a minute."
+msgstr "Estamos analizando los números, esto puede tardar un minuto."
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:626
+msgid "Calculating Survey Results"
+msgstr "Calculando de los resultados de la encuesta"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:623
+msgid "Calculating Field Results"
+msgstr "Calculando de los resultados de campo"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:588
+#: wpforms-surveys-polls/src/Reporting/Admin.php:669
+msgid "Print"
+msgstr "Imprimir"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:587
+msgid "Close"
+msgstr "Cerrar"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:574
+msgid "WPForms Survey Print Preview"
+msgstr "Vista previa de impresión de WPForms Survey"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:505
+msgid "Print Survey Report"
+msgstr "Imprimir informe de encuesta"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:496
+msgid "Preview Form"
+msgstr "Previsualizar formulario"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:490
+msgid "Edit This Form"
+msgstr "Editar este formulario"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:534
+msgid "Open form selector"
+msgstr "Abrir selector de formularios"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:477
+msgid "Select Form"
+msgstr "Seleccionar formulario"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:473
+msgid "Back to All Entries"
+msgstr "Volver a todas las entradas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:330
+msgid "View another question"
+msgstr "Ver otra pregunta"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:328
+msgid "or"
+msgstr "o"
+
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:388
+msgid "Invalid score; must be 0-10."
+msgstr "Puntuación no válida; debe ser 0-10."
+
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:295
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:342
+msgid "Extremely Likely"
+msgstr "Extremadamente probable"
+
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:294
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:341
+msgid "Not at all Likely"
+msgstr "No es probable"
+
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:229
+msgid "Select the style for the net promoter score."
+msgstr "Elige el estilo para la net promoter score."
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:714
+#: wpforms-surveys-polls/src/Reporting/Fields.php:495
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:20
+msgid "Net Promoter Score"
+msgstr "Net Promoter Score"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:787
+msgid "(Empty)"
+msgstr "(Vacío)"
+
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:241
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:523
+msgid "Classic"
+msgstr "Clásico"
+
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:240
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:522
+msgid "Modern"
+msgstr "Moderno"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:511
+msgid "Select the style for the likert scale."
+msgstr "Elige el estilo de la escala Likert."
+
+#: wpforms-surveys-polls/src/Fields/NetPromoterScore/Field.php:228
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:510
+msgid "Style"
+msgstr "Estilo"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:463
+msgid "Remove likert scale column"
+msgstr "Quitar la columna de escala Likert"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:462
+msgid "Add likert scale column"
+msgstr "Añadir columna de escala Likert"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:453
+msgid "Add columns to the likert scale."
+msgstr "Añadir columnas a la escala Likert."
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:452
+msgid "Columns"
+msgstr "Columnas"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:438
+msgid "Check this option to allow multiple responses per row (uses checkboxes)."
+msgstr "Marca esta opción para permitir varias respuestas por fila (utiliza casillas de verificación)."
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:437
+msgid "Allow multiple responses per row"
+msgstr "Permitir varias respuestas por fila"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:418
+msgid "Check this option to make this a single-row rating scale and remove the row choices."
+msgstr "Marca esta opción para hacer que esta sea una escala de clasificación de una sola fila y eliminar las opciones de fila."
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:417
+msgid "Make this a single-row rating scale"
+msgstr "Hacer que esta sea una escala de clasificación de una sola fila"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:392
+msgid "Remove likert scale row"
+msgstr "Quitar la fila de escala Likert"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:391
+msgid "Add likert scale row"
+msgstr "Añadir fila de escala Likert"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:375
+msgid "Add rows to the likert scale."
+msgstr "Añadir filas a la escala Likert."
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:374
+msgid "Rows"
+msgstr "Filas"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:36
+msgid "Strongly Agree"
+msgstr "Completamente de acuerdo"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:35
+msgid "Agree"
+msgstr "De acuerdo"
+
+#: wpforms-surveys-polls/src/Templates/Survey.php:96
+#: wpforms-surveys-polls/src/Templates/Survey.php:115
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:34
+msgid "Neutral"
+msgstr "Neutral"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:33
+msgid "Disagree"
+msgstr "En desacuerdo"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:32
+msgid "Strongly Disagree"
+msgstr "Completamente en desacuerdo"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:29
+msgid "Item #3"
+msgstr "Elemento #3"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:28
+msgid "Item #2"
+msgstr "Elemento #2"
+
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:27
+msgid "Item #1"
+msgstr "Elemento #1"
+
+#: wpforms-surveys-polls/src/Reporting/Fields.php:491
+#: wpforms-surveys-polls/src/Fields/LikertScale/Field.php:20
+msgid "Likert Scale"
+msgstr "Escala Likert"
+
+#. translators: %s - total votes.
+#: wpforms-surveys-polls/src/Polls.php:206
+msgid "Total Votes: %s"
+msgstr "Total de votos: %s"
+
+#. translators: %s - votes count.
+#: wpforms-surveys-polls/src/Polls.php:184
+msgid "(%s vote)"
+msgid_plural "(%s votes)"
+msgstr[0] "(%s voto)"
+msgstr[1] "(%s votos)"
+
+#: wpforms-surveys-polls/src/Admin.php:230
+msgid "Enable Poll Results"
+msgstr "Activar resultados de votación"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-surveys-polls/src/Admin.php:213
+msgid "Poll results for all Checkbox, Multiple Choice, and Dropdown fields will automatically display to users after they submit the form. For more details and advanced poll options visit our <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Polls documentation</a>."
+msgstr "Los resultados de la encuesta para todos los campos casilla de verificación, selección múltiple y desplegable se mostrarán automáticamente a los usuarios después de enviar el formulario. Para más detalles y opciones avanzadas de sondeo visite nuestra <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">documentación de cuestionarios</a>."
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-surveys-polls/src/Admin.php:187
+msgid "Survey Reporting for all supported fields will be turned on. For more details and advanced survey options visit our <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Surveys documentation</a>."
+msgstr "Los informes de encuestas para todos los campos admitidos será activados. Para más detalles y opciones avanzadas de encuestas visita nuestra <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">documentación sobre encuestas</a>."
+
+#: wpforms-surveys-polls/src/Admin.php:181
+msgid "Click here for documentation on Surveys and Polls addon"
+msgstr "Haz clic aquí para obtener documentación sobre el complemento de encuestas y encuestas addon"
+
+#: wpforms-surveys-polls/src/Admin.php:163
+#: wpforms-surveys-polls/src/Admin.php:180
+msgid "Surveys and Polls"
+msgstr "Surveys and Polls"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:472
+#: wpforms-surveys-polls/src/Admin.php:144
+msgid "Survey Results"
+msgstr "Resultados de las encuestas"
+
+#: wpforms-surveys-polls/src/Reporting/Admin.php:325
+#: wpforms-surveys-polls/src/Admin.php:143
+msgid "View Survey Results"
+msgstr "Ver resultados de las encuestas"
+
+#: wpforms-surveys-polls/src/Admin.php:102
+msgid "Check this option to track user input and include in survey reporting."
+msgstr "Marca esta opción para monitorizar las entradas de los usuarios e incluirlas en los informes de las encuestas."
+
+#: wpforms-surveys-polls/src/Admin.php:101
+#: wpforms-surveys-polls/src/Admin.php:204
+msgid "Enable Survey Reporting"
+msgstr "Activar los informes de encuestas"
+
+#. translators: %s - WPForms.com documentation page URL.
+#: wpforms-surveys-polls/wpforms-surveys-polls.php:81
+msgid "The WPForms Surveys and Poll plugin has been deactivated. Your site is running an outdated version of PHP that is no longer supported and is not compatible with the Surveys and Polls addon. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Read more</a> for additional information."
+msgstr "El plugin WPForms Surveys and Poll ha sido desactivado. Tu sitio está ejecutando una versión obsoleta de PHP que no tiene soporte y que no es compatible con la extensión Surveys and Polls. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Lee esto</a> para obtener más información."

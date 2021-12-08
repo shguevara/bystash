@@ -1,0 +1,43 @@
+# Application
+web/app/mu-plugins/*/
+web/app/upgrade
+web/app/uploads/*
+!web/app/uploads/.gitkeep
+
+# WordPress
+web/wp
+web/.htaccess
+
+# Logs
+*.log
+
+# Cache
+web/cache/*
+web/app/cache/*
+web/app/advanced-cache.php
+web/app/wp-rocket-config
+
+# WP RESET
+wp-reset-autosnapshots
+wp-reset-snapshots-export
+
+# bck translations
+*.po~
+
+# Dotenv
+.env
+.env.*
+!.env.example
+
+# Composer
+/vendor
+
+# WP-CLI
+wp-cli.local.yml
+
+# Wordfence
+web/app/wflogs/*
+
+# VS
+.vscode/settings.json
+
