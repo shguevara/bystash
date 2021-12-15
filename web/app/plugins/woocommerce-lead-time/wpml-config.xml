@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="wclt_prefix"/>
+        <key name="wclt_prefix_instock"/>
+        <key name="wclt_prefix_outofstock"/>
+        <key name="wclt_prefix_onbackorder"/>
+        <key name="wclt_prefix_discontinued"/>
+        <key name="wclt_global_lead_time_instock"/>
+        <key name="wclt_global_lead_time_outofstock"/>
+        <key name="wclt_global_lead_time_onbackorder"/>
+        <key name="wclt_global_lead_time_discontinued"/>
+    </admin-texts>
+</wpml-config>

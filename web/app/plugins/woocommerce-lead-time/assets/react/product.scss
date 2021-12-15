@@ -1,0 +1,178 @@
+#wclt-product-root {
+    .components-datetime__date {
+        width: auto;
+        display: inline-block;
+        border:1px solid #ddd;
+    }
+
+    .wclt-picker-wrapper {
+        display: flex;
+    }
+}
+
+#wclt-product-perstock-root {
+    .components-panel__body-title,
+    .components-panel__body.is-opened {
+        padding: 0 !important;
+    }
+}
+
+.components-panel__body.is-opened {
+    .components-panel__body-toggle.components-button {
+        border-bottom: 1px solid #f5f5f5;
+    }
+}
+
+.components-panel__row {
+    .wclt-dynamic {
+        width: 100%;
+        padding-top: 1rem;
+    }
+
+    label {
+        margin-right: 0 !important;
+        max-width: 100% !important;
+        width: 150px !important;
+    }
+
+    .components-datetime__date {
+        width: auto;
+        display: inline-block;
+        border:1px solid #ddd;
+        padding-left: 5px;
+    }
+}
+
+.wclt-dynamic {
+    clear: both;
+
+    h4 {
+        padding:1rem 12px 0;
+        border-top: 1px solid #eee; 
+    }
+
+    label {
+        float: none !important;
+    }
+
+    .form-field {
+        display: flex;
+        align-items: center;
+        margin-bottom: 1rem;
+        padding: 5px 20px 5px 162px;
+
+        .components-base-control {
+            width: 50%;
+        }
+
+        .components-text-control__input {
+            width: 100%;
+        }
+
+        &.date-field {
+            align-items: initial;
+        }
+    }
+}
+
+#wclt-product-perstock-root {
+    .components-panel__body {
+        border-color: #eee;
+        &:last-child {
+            border-bottom: 0;
+        }
+
+        td {
+            padding: 0 !important;
+        }
+    }
+
+    .components-input-control__container,
+    .components-text-control__input {
+        border-radius: 4px !important;
+    }
+
+    .components-panel__body-toggle.components-button {
+        padding-left: 12px !important;
+    }
+}
+
+.wclt-variation-wrapper {
+    .components-datetime__date {
+        width: auto;
+        display: inline-block;
+        border:1px solid #ddd;
+        padding-left: 5px;
+    }
+
+    td {
+        padding: 0 !important;
+    }
+
+    .components-datetime__date .CalendarDay {
+        font-size: 13px !important;
+        border: none !important;
+        border-radius: 50% !important;
+        text-align: center !important;
+    }
+
+    table {
+        padding: 0 !important;
+        background-color: #fff !important;
+    }
+
+    .wclt-picker-wrapper {
+        margin-top: 0.5rem;
+    }
+}
+
+.wclt-product-variable-perstock-root {
+    padding: 1.5rem 0 1rem;
+
+    .components-panel__body-title,
+    .components-panel__body.is-opened {
+        padding: 0 !important;
+    }
+
+    .alt-no-flex-panel {
+        display: block;
+
+        .components-datetime__date {
+            width: auto;
+            display: inline-block;
+            border:1px solid #ddd
+        }
+
+        .label-with-tooltip {
+            display: block;
+            width: 100%;
+            font-weight: 500;
+            margin-bottom: 0.5rem;
+            font-size: 13px;
+        }
+        .wclt-form-field {
+            &:last-child {
+                padding-bottom: 1rem;
+            }
+        }
+    }
+
+    .wclt-form-field {
+        padding: 1rem 1rem 0;
+    }
+
+    .label-with-tooltip {
+        font-weight: normal !important;
+        margin-bottom: 0.2rem;
+
+        .woocommerce-help-tip {
+            font-size: 1.2rem !important;
+            margin-top: 0px;
+        }
+    }
+
+    .components-input-control__container,
+    .components-text-control__input {
+        border-radius: 4px !important;
+    }
+}

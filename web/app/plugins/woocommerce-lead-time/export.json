@@ -1,0 +1,16 @@
+{
+  "files": [
+    "wooocommerce-lead-time.php",
+    "readme.txt",
+    "wpml-config.xml",
+    "license.txt"
+  ],
+  "folders": [
+    "assets",
+    "languages",
+    "lib",
+    "src",
+    "vendor",
+    "views"
+  ]
+}

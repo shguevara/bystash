@@ -41,3 +41,4 @@ web/app/wflogs/*
 # VS
 .vscode/settings.json
 
+desktop.ini

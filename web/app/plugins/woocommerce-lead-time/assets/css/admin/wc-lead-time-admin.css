@@ -1,0 +1,4 @@
+.lead-time-settings input,
+.lead-time-settings select {
+	vertical-align: middle !important;
+}

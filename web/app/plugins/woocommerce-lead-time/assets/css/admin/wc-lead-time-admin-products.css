@@ -1,0 +1,16 @@
+.wclt-dynamic-title {
+    padding: 0 11px;
+}
+
+.options_group.first-block {
+    border-top: 1px solid #eee !important;
+}
+
+.lead_time_field .options-group {
+    padding-bottom: 11px;
+}
+
+.woocommerce_variation .wclt-per-stock {
+    border-top: 1px solid #eee;
+    padding-bottom: 10px;
+}
