@@ -11,7 +11,7 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2
     
-    - name: 📂 Sync files
+    - name: 📂 Sync filez
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
         server: ftp.bystash.co
