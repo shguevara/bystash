@@ -41,4 +41,5 @@ web/app/wflogs/*
 # VS
 .vscode/settings.json
 
+# Misc
 desktop.ini
