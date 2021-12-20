@@ -1063,12 +1063,13 @@ ul.menu > li + li,
   }
 }
 
-/* BY.STASH */
-/*         */
+/* BY.STASH             */
+/*                      */
 
 /* Global */
 body {
   font-size: 100%;
+  background-color: red;
 }
 
 #wrapper {

@@ -43,3 +43,4 @@ web/app/wflogs/*
 
 # Misc
 desktop.ini
+bedrock/.env.example
